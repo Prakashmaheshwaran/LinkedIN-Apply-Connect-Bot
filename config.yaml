@@ -1,0 +1,37 @@
+username: 
+password: 
+phone_number: 
+First_name: Prakash
+Last_name: Mahesh
+
+positions:
+# - Artificial Intelligence Engineer
+# - Machine Learning Engineer
+# - Deep Learning Engineer
+# - Computer Vision Engineer
+- Natural Language Processing (NLP) Engineer
+- Robotics Engineer
+- Reinforcement Learning Engineer
+# - AI Research Scientist
+- Data Scientist
+# - Data Engineer
+- # A third position you want to search for
+
+locations:
+- Remote
+- Bengaluru, Karnataka, India 
+
+uploads:
+  Resume: Prakash_resume.pdf
+#  Cover Letter: # PATH TO cover letter
+#  Photo: # PATH TO photo
+
+
+# output_filename:
+# - # PATH TO OUTPUT FILE (default output.csv)
+
+# blacklist:
+# - # Company names you want to ignore
+
+#blackListTitles:
+#- # Add job titles you want to ignore
