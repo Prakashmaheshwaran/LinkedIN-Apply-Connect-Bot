@@ -26,13 +26,13 @@ This script automates the process of connecting with job posters on LinkedIn. It
 Clone the repository:
 
 ```bash
-git clone [Your Repository Link]
+git clone https://github.com/PrakashMahesh2729/LinkedIN-Apply-Connect-Bot/
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd [Your Repository Directory]
+cd LinkedIN-Apply-Connect-Bot
 ```
 
 Install the required Python packages:
@@ -59,10 +59,9 @@ Ensure you replace the placeholder text with your actual LinkedIn credentials.
 Run the script:
 
 ```bash
-python linkedin_connector.py
+python Job_connect.py
 ```
 
-Ensure you replace "linkedin_connector.py" with the actual name of your Python script.
 
 ## Contributing
 
